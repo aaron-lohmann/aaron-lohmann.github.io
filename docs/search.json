@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "LICENSE.html",
+    "href": "LICENSE.html",
+    "title": "Quantum Jitter",
+    "section": "",
+    "text": "MIT License\nCopyright (c) 2023 quantumjitter Carl Goodwin\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+  },
+  {
+    "objectID": "test/UntitledQMD.html",
+    "href": "test/UntitledQMD.html",
+    "title": "asd",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "Aaron Lohmann",
+    "section": "",
+    "text": "My name is Aaron Lohmann, I am a PhD candidate in economics at IfW Kiel and Bielefeld University. Deeply interested in empirical and theoretical economics research on aspects of the digital economy."
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "TEST\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBootstraps & Bandings\n\n\n0 min\n\n\nDecades-old residential property bands and inference using a sample of those recently sold\n\n\n\nMar 8, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "research/bands/index.html",
+    "href": "research/bands/index.html",
+    "title": "Bootstraps & Bandings",
+    "section": "",
+    "text": "Are the residential property bands of 3 decades ago becoming less so? Would a sample of those recently-sold reveal band convergence? And what may be inferred about those not sampled?\nOver the years, urban properties have been added to and divided up. And two streets of equal attractiveness, and with equivalently-banded properties, may have diverged as neighbourhoods evolved.\nWhilst properties can and do move to higher or lower bands following alteration, would a sample of those recently-sold reveal band convergence after so long? And what may be inferred about the wider housing stock?"
+  },
+  {
+    "objectID": "code/index.html",
+    "href": "code/index.html",
+    "title": "Code",
+    "section": "",
+    "text": "No matching items"
+  }
+]

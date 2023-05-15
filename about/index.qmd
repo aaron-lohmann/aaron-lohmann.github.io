@@ -1,0 +1,18 @@
+---
+title: "Aaron Lohmann"
+image: aaronlohmann_foto.jpeg
+image-alt: "Portrait photo of the author with a transparent background"
+about:
+  template: trestles
+  links:
+    - icon: github
+      href: https://github.com/aaron-lohmann
+comments: false
+title-block-banner: true
+---
+
+<div>
+
+My name is Aaron Lohmann, I am a PhD candidate in economics at IfW Kiel and Bielefeld University. Deeply interested in empirical and theoretical economics research on aspects of the digital economy.
+
+</div>
