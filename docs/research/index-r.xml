@@ -10,30 +10,6 @@
 <atom:link href="aaron-lohmann.github.io/research/index-r.xml" rel="self" type="application/rss+xml"/>
 <description>A personal website of Aaron Lohmann. Statistician and economist.</description>
 <generator>quarto-1.2.269</generator>
-<lastBuildDate>Mon, 07 Mar 2022 23:00:00 GMT</lastBuildDate>
-<item>
-  <title>Bootstraps &amp; Bandings</title>
-  <link>aaron-lohmann.github.io/research/bands/index.html</link>
-  <description><![CDATA[ 
-
-
-
-<p><img src="aaron-lohmann.github.io/research/bands/feature.jpg" class="img-fluid" alt="A boot with a strap leans against a pile of ribbon-rolls"></p>
-<p>Are the residential property bands of <a href="https://www.gov.uk/guidance/understand-how-council-tax-bands-are-assessed#council-tax-bands-in-england-based-on-1-april-1991-values">3 decades ago</a> becoming less so? Would a sample of those recently-sold reveal band convergence? And what may be inferred about those not sampled?</p>
-<p>Over the years, urban properties have been added to and divided up. And two streets of equal attractiveness, and with equivalently-banded properties, may have diverged as neighbourhoods evolved.</p>
-<p>Whilst properties can and do move to higher or lower bands following alteration, would a sample of those recently-sold reveal band convergence after so long? And what may be inferred about the wider housing stock?</p>
-
-
-
- ]]></description>
-  <category>R</category>
-  <category>statistical inference</category>
-  <category>regex</category>
-  <category>special effects</category>
-  <category>web scraping</category>
-  <guid>aaron-lohmann.github.io/research/bands/index.html</guid>
-  <pubDate>Mon, 07 Mar 2022 23:00:00 GMT</pubDate>
-  <media:content url="aaron-lohmann.github.io/research/bands/feature.jpg" medium="image" type="image/jpeg"/>
-</item>
+<lastBuildDate>Tue, 16 May 2023 06:33:04 GMT</lastBuildDate>
 </channel>
 </rss>

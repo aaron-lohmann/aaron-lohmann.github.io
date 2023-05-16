@@ -1,0 +1,10 @@
+---
+title: "Reading Course in Statistical Sciences"
+date: "2023-05-16"
+categories: [R, causal inference, mixtape]
+description: "Topics in Causal Inference and empirical research papers."
+---
+
+![](feature.jpg){fig-alt="A boot with a strap leans against a pile of ribbon-rolls"}
+
+A reading course in statistical sciences held in the summer term of 2023 at university Bielefeld. Taking the wonderful book *Causal Inference - The Mixtape* by Scott Cunningham as a structuring guideline. Students had to present one method in each week and we discussed empirical papers applying these techniques all together.
