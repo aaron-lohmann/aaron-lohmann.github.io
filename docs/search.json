@@ -25,14 +25,14 @@
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "No matching items"
+    "text": "test\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "teaching/index.html",
     "href": "teaching/index.html",
     "title": "Teaching",
     "section": "",
-    "text": "No matching items"
+    "text": "Reading Course in Statistical Sciences\n\n\nTopics in Causal Inference and empirical research papers.\n\n\n\nMay 16, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/bands/index.html",
@@ -58,6 +58,20 @@
   {
     "objectID": "research/Reading Course in Statistical Sciences/index.html",
     "href": "research/Reading Course in Statistical Sciences/index.html",
+    "title": "Reading Course in Statistical Sciences",
+    "section": "",
+    "text": "A reading course in statistical sciences held in the summer term of 2023 at university Bielefeld. Taking the wonderful book Causal Inference - The Mixtape by Scott Cunningham as a structuring guideline. Students had to present one method in each week and we discussed empirical papers applying these techniques all together."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Aaron Lohmann",
+    "section": "",
+    "text": "Welcome to my personal homepage. You will find economic research, topics in causal inference and code."
+  },
+  {
+    "objectID": "teaching/Reading Course in Statistical Sciences/index.html",
+    "href": "teaching/Reading Course in Statistical Sciences/index.html",
     "title": "Reading Course in Statistical Sciences",
     "section": "",
     "text": "A reading course in statistical sciences held in the summer term of 2023 at university Bielefeld. Taking the wonderful book Causal Inference - The Mixtape by Scott Cunningham as a structuring guideline. Students had to present one method in each week and we discussed empirical papers applying these techniques all together."

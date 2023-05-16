@@ -1,10 +1,74 @@
 ---
-page-layout: custom
-comments: false
+project:
+  type: website
+  output-dir: docs
+  resources:
+    -  project/wood/appfiles/
+
+execute:
+  freeze: auto
+
+website:
+  title: "Aaron Lohmann"
+  favicon: images/favicon.png
+  site-url: "aaron-lohmann.github.io"
+  description: "A personal website of Aaron Lohmann. Statistician and economist."
+  twitter-card: true
+  open-graph: true
+  navbar:
+    logo: images/logo-light.png
+    logo-alt: "A box and whisker plot icon"
+    title: false
+    right:
+      - text: About
+        href: about/index.qmd
+      - text: Research
+        href: research/index.qmd
+      - text: Code
+        href: code/index.qmd
+      - text: Teaching
+        href: teaching/index.qmd
+      - icon: github
+        menu:
+          - text: Source Code
+            url:  https://github.com/aaron-lohmann/aaron-lohmann.github.io
+          - text: Report a Bug
+            url:  https://github.com/aaron-lohmann/aaron-lohmann.github.io/issues
+  page-footer:
+    border: false
+    left: "Published with [Quarto](https://quarto.org/) v<?quarto.version?> | Hosted by GitHub Pages"
+    right: "© 2023 [Aaron Lohmann](/about) | [MIT License](https://www.quantumjitter.com/license)"
+
+format:
+  html:
+    theme:
+      light: [flatly, scss/light.scss]
+      dark: [darkly, scss/dark.scss]
+    css: scss/styles.css
+    code-link: true
+    link-external-icon: true
+    link-external-newwindow: true
+    smooth-scroll: true
+    highlight-style: gruvbox
+    df-print: kable
+    comments:
+      giscus:
+        repo: cgoo4/quantumjitter
+        category: "Comments"
+        mapping: "pathname"
+        reactions-enabled: true
+        loading: lazy
+        input-position: "bottom"
+        theme: "transparent_dark"
+
+editor: visual
+
+filters:
+  - quarto-version.lua
 ---
 
 # Hello there.
 
 Welcome to my personal homepage. You will find economic research, topics in causal inference and code.
 
-## This website is still under construction! 
+## This website is still under construction!

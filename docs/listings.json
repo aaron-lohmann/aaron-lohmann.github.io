@@ -9,7 +9,9 @@
   },
   {
     "listing": "/teaching/index.html",
-    "items": []
+    "items": [
+      "/teaching/Reading Course in Statistical Sciences/index.html"
+    ]
   },
   {
     "listing": "/code/index.html",

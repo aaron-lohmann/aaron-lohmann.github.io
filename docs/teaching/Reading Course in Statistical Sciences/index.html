@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2023-05-16">
+<meta name="description" content="Topics in Causal Inference and empirical research papers.">
 
-<title>Aaron Lohmann</title>
+<title>Aaron Lohmann - Reading Course in Statistical Sciences</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,25 +25,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./images/favicon.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../images/favicon.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -64,13 +66,15 @@ ul.task-list li input[type="checkbox"] {
 <style>html{ scroll-behavior: smooth; }</style>
 
 
-<link rel="stylesheet" href="scss/styles.css">
-<meta property="og:title" content="">
-<meta property="og:description" content="Welcome to my personal homepage. You will find economic research, topics in causal inference and code.">
+<link rel="stylesheet" href="../../scss/styles.css">
+<meta property="og:title" content="Aaron Lohmann - Reading Course in Statistical Sciences">
+<meta property="og:description" content="Topics in Causal Inference and empirical research papers.">
+<meta property="og:image" content="aaron-lohmann.github.io/teaching/Reading Course in Statistical Sciences/feature.jpg">
 <meta property="og:site-name" content="Aaron Lohmann">
-<meta name="twitter:title" content="">
-<meta name="twitter:description" content="Welcome to my personal homepage. You will find economic research, topics in causal inference and code.">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Aaron Lohmann - Reading Course in Statistical Sciences">
+<meta name="twitter:description" content="Topics in Causal Inference and empirical research papers.">
+<meta name="twitter:image" content="aaron-lohmann.github.io/teaching/Reading Course in Statistical Sciences/feature.jpg">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed fullcontent">
@@ -80,8 +84,8 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/logo-light.png" alt="A box and whisker plot icon" class="navbar-logo">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../images/logo-light.png" alt="A box and whisker plot icon" class="navbar-logo">
     </a>
   </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
@@ -90,19 +94,19 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about/index.html">
+    <a class="nav-link" href="../../about/index.html">
  <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research/index.html">
+    <a class="nav-link" href="../../research/index.html">
  <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./code/index.qmd">
+    <a class="nav-link" href="../../code/index.qmd">
  <span class="menu-text">Code</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./teaching/index.html">
+    <a class="nav-link" href="../../teaching/index.html">
  <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -139,17 +143,43 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Reading Course in Statistical Sciences</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">R</div>
+    <div class="quarto-category">causal inference</div>
+    <div class="quarto-category">mixtape</div>
+  </div>
+  </div>
+
+<div>
+  <div class="description">
+    Topics in Causal Inference and empirical research papers.
+  </div>
+</div>
 
 
-<section id="hello-there." class="level1">
-<h1>Hello there.</h1>
-<p>Welcome to my personal homepage. You will find economic research, topics in causal inference and code.</p>
-<section id="this-website-is-still-under-construction" class="level2">
-<h2 class="anchored" data-anchor-id="this-website-is-still-under-construction">This website is still under construction!</h2>
+<div class="quarto-title-meta">
+
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">May 16, 2023</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+</header>
+
+<p><img src="feature.jpg" class="img-fluid" alt="A boot with a strap leans against a pile of ribbon-rolls"></p>
+<p>A reading course in statistical sciences held in the summer term of 2023 at university Bielefeld. Taking the wonderful book <em>Causal Inference - The Mixtape</em> by Scott Cunningham as a structuring guideline. Students had to present one method in each week and we discussed empirical papers applying these techniques all together.</p>
 
 
-</section>
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -422,11 +452,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">Published with <a href="https://quarto.org/">Quarto</a> v1.2.269 | Hosted by GitHub Pages</div>   
-    <div class="nav-footer-right">© 2023 <a href="./about">Aaron Lohmann</a> | <a href="https://www.quantumjitter.com/license">MIT License</a></div>
+    <div class="nav-footer-right">© 2023 <a href="../../about">Aaron Lohmann</a> | <a href="https://www.quantumjitter.com/license">MIT License</a></div>
   </div>
 </footer>
 
 
 
-<script src="site_libs/quarto-html/zenscroll-min.js"></script>
+<script src="../../site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>
