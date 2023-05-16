@@ -69,6 +69,6 @@ filters:
 
 # Hello there.
 
-Welcome to my personal homepage. You will find economic research, topics in causal inference and code.
+Welcome to my personal homepage. 
 
 ## This website is still under construction!
