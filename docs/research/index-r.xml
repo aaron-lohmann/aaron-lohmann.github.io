@@ -5,10 +5,10 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>Quantum Jitter</title>
+<title>Aaron Lohmann</title>
 <link>aaron-lohmann.github.io/research/index.html#category=R</link>
 <atom:link href="aaron-lohmann.github.io/research/index-r.xml" rel="self" type="application/rss+xml"/>
-<description>A data science and machine learning blog with the tidyverse at its {{&lt; fa regular heart &gt;}}</description>
+<description>A personal website of Aaron Lohmann. Statistician and economist.</description>
 <generator>quarto-1.2.269</generator>
 <lastBuildDate>Mon, 07 Mar 2022 23:00:00 GMT</lastBuildDate>
 <item>
