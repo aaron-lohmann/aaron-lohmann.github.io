@@ -8,10 +8,10 @@ execute:
   freeze: auto
 
 website:
-  title: "Quantum Jitter"
+  title: "Aaron Lohmann"
   favicon: images/favicon.png
   site-url: "aaron-lohmann.github.io"
-  description: "A data science and machine learning blog with the tidyverse at its {{< fa regular heart >}}"
+  description: "A personal website of Aaron Lohmann. Statistician and economist."
   twitter-card: true
   open-graph: true
   navbar:
