@@ -69,6 +69,6 @@ filters:
 
 # Hello there.
 
-Welcome to my personal homepage. 
+Welcome to my personal homepage.
 
 ## This website is still under construction!
