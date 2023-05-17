@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-subtitle: "A few brief notes along the way"
+subtitle: "Teaching done in and out of university aslong as it is academically relevant."
 listing:
   contents: .
   fields: [image, date, title, description]
