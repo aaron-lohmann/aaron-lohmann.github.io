@@ -36,7 +36,7 @@ website:
   page-footer:
     border: false
     left: "Published with [Quarto](https://quarto.org/) v<?quarto.version?> | Hosted by GitHub Pages"
-    right: "© 2023 [Aaron Lohmann](/about) | [MIT License](https://aaronlohmann.com/license)"
+    right: "© 2023 [Aaron Lohmann](/about) | [MIT License](/license)"
 
 format:
   html:

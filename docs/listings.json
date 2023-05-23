@@ -16,5 +16,9 @@
   {
     "listing": "/code/index.html",
     "items": []
+  },
+  {
+    "listing": "/license/index.html",
+    "items": []
   }
 ]
