@@ -1,9 +1,10 @@
 ---
 title: "QJE - PhD Reading Group"
-date: "2023-05-16"
+date: "2023-05-23"
 categories: [economics, reading group]
 description: "A reading group organised from PhD students for PhD students."
-author: Aaron Lohmann, Carsten Brockhaus
+author:
+  - name: "Carsten Brockhaus"
 ---
 
 ![Some person reading something smart. Credit: [foto priscilladupreez](https://unsplash.com/@priscilladupreez)](foto-reading-group.jpg)
