@@ -10,25 +10,52 @@
 <atom:link href="aaron-lohmann.github.io/research/index.xml" rel="self" type="application/rss+xml"/>
 <description>A personal website of Aaron Lohmann. Statistician and economist.</description>
 <generator>quarto-1.2.269</generator>
-<lastBuildDate>Mon, 15 May 2023 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 22 May 2023 22:00:00 GMT</lastBuildDate>
 <item>
   <title>QJE - PhD Reading Group</title>
+  <dc:creator>Carsten Brockhaus, Aaron Lohmann</dc:creator>
   <link>aaron-lohmann.github.io/research/QJE - Reading Group/index.html</link>
   <description><![CDATA[ 
 
 
 
-<p><img src="aaron-lohmann.github.io/research/QJE - Reading Group/foto-reading-group.jpg" class="img-fluid" alt="Some very person reading something very smart."></p>
-<p>This reading group intends to discuss the current research in brought aspects of economics. It is designed from PhD students for PhD students. All PhD students in the field of economics are warmly invited. We discuss every two to three weeks one of the papers in the most recent issue of Quartely Journal of Economics. The scope of the reading group is intentionally brought to allow us doctoral students a wide understanding of economics instead of focusing narrowly on our own research topics.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="aaron-lohmann.github.io/research/QJE - Reading Group/foto-reading-group.jpg" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Some person reading something smart. Credit: <a href="https://unsplash.com/@priscilladupreez">foto priscilladupreez</a></figcaption><p></p>
+</figure>
+</div>
+<p>This reading group intends to discuss the current research in brought aspects of economics. It is designed from PhD students for PhD students. All PhD students in the field of economics are warmly invited. We discuss every two to three weeks one of the papers in the most recent issue of Quartely Journal of Economics. The scope of the reading group is intentionally brought to allow us doctoral students a brought understanding of economics instead of focusing narrowly on our own research topics.</p>
+<section id="schedule" class="level2">
+<h2 class="anchored" data-anchor-id="schedule">Schedule</h2>
+<table class="table">
+<colgroup>
+<col style="width: 62%">
+<col style="width: 37%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Date</th>
+<th>Topic</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>01.06.2023 - 4 pm (Central European Time)</td>
+<td>Web of Power: How Elite Networks Shaped War and Politics in China - Ying Bai, Ruixue Jia, Jiaojiao Yang</td>
+</tr>
+</tbody>
+</table>
 
 
+</section>
 
  ]]></description>
   <category>economics</category>
   <category>reading group</category>
   <guid>aaron-lohmann.github.io/research/QJE - Reading Group/index.html</guid>
-  <pubDate>Mon, 15 May 2023 22:00:00 GMT</pubDate>
-  <media:content url="aaron-lohmann.github.io/research/QJE - Reading Group/foto-reading-group.jpg" medium="image" type="image/jpeg"/>
+  <pubDate>Mon, 22 May 2023 22:00:00 GMT</pubDate>
+  <media:content url="https://unsplash.com/@priscilladupreez" medium="image"/>
 </item>
 </channel>
 </rss>
