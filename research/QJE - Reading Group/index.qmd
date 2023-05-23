@@ -1,0 +1,10 @@
+---
+title: "QJE - PhD Reading Group"
+date: "2023-05-16"
+categories: [economics, reading group]
+description: "A reading group organised from PhD students for PhD students."
+---
+
+![](foto-reading-group.jpg){fig-alt="Some very person reading something very smart."}
+
+This reading group intends to discuss the current research in brought aspects of economics. It is designed from PhD students for PhD students. All PhD students in the field of economics are warmly invited. We discuss every two to three weeks one of the papers in the most recent issue of Quartely Journal of Economics. The scope of the reading group is intentionally brought to allow us doctoral students a wide understanding of economics instead of focusing narrowly on our own research topics. 
