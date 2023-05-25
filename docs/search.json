@@ -110,5 +110,12 @@
     "title": "QJE - PhD Reading Group",
     "section": "Schedule",
     "text": "Schedule\n\n\n\n\n\n\n\nDate\nTopic\n\n\n\n\n01.06.2023 - 4 pm (Central European Time)\nWeb of Power: How Elite Networks Shaped War and Politics in China - Ying Bai, Ruixue Jia, Jiaojiao Yang"
+  },
+  {
+    "objectID": "code/financial_ts/index.html",
+    "href": "code/financial_ts/index.html",
+    "title": "Yahoo is still useful - sort of",
+    "section": "",
+    "text": "Yes Yahoo still exists. Forgotten by most, it can however still serve as a wonderful data source for downloading financial data. Here, I cover a very simple code which allows to download multiple financial time series at once, match observational periods, save the data and produce plots of values and returns of those time series. Nothing fancy and is something I did as a research assistant some time back but still maybe it is useful to someone."
   }
 ]
