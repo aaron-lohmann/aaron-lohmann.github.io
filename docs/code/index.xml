@@ -10,6 +10,25 @@
 <atom:link href="aaron-lohmann.github.io/code/index.xml" rel="self" type="application/rss+xml"/>
 <description>A personal website of Aaron Lohmann. Statistician and economist.</description>
 <generator>quarto-1.2.269</generator>
-<lastBuildDate>Thu, 25 May 2023 13:28:21 GMT</lastBuildDate>
+<lastBuildDate>Wed, 24 May 2023 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Yahoo is still useful - sort of</title>
+  <dc:creator>Aaron Lohmann</dc:creator>
+  <link>aaron-lohmann.github.io/code/financial_ts/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>Yes Yahoo still exists. Forgotten by most, it can however still serve as a wonderful data source for downloading financial data. Here, I cover a very simple code which allows to download multiple financial time series at once, match observational periods, save the data and produce plots of values and returns of those time series. Nothing fancy and is something I did as a research assistant some time back but still maybe it is useful to someone.</p>
+
+
+
+ ]]></description>
+  <category>Financial Time Series</category>
+  <category>Code</category>
+  <category>Data</category>
+  <guid>aaron-lohmann.github.io/code/financial_ts/index.html</guid>
+  <pubDate>Wed, 24 May 2023 22:00:00 GMT</pubDate>
+</item>
 </channel>
 </rss>

@@ -2,7 +2,7 @@
 title: "Yahoo is still useful - sort of"
 date: "2023-05-25"
 categories: [Financial Time Series, Code, Data]
-description: "Download mulitple financial time series from Yahoo."
+description: "Download multiple financial time series from Yahoo at once and combine them into one dataset."
 author: "Aaron Lohmann"
 ---
 

@@ -17,7 +17,9 @@
   },
   {
     "listing": "/code/index.html",
-    "items": []
+    "items": [
+      "/code/financial_ts/index.html"
+    ]
   },
   {
     "listing": "/license/index.html",
