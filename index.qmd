@@ -67,8 +67,6 @@ filters:
   - quarto-version.lua
 ---
 
-# Hello there.
+# Hello there!
 
-Welcome to my personal homepage.
-
-## This website is still under construction!
+Welcome to my personal homepage. I am an aspiring empirical economist who is deeply interested in exploring aspects of digital economics. I explore theoretical and empirical contributions in this field mostly using data originating from Github. In case you are curious about my research or care to collaborate, feel free to contact me.
