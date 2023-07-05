@@ -17,3 +17,4 @@ comments: false
 ---
 
 Under construction. Updated soon...
+[Download gravityoss](gravity_oss.pdf)
