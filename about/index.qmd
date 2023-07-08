@@ -1,6 +1,6 @@
 ---
 title: "Aaron Lohmann"
-image: aaronlohmann_foto.jpeg
+image: aaronlohmann_foto.jpg
 image-alt: "Portrait photo of the author with a transparent background"
 about:
   template: trestles
