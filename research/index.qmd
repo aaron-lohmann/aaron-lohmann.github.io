@@ -15,5 +15,3 @@ page-layout: full
 title-block-banner: true
 comments: false
 ---
-
-Under construction. Updated soon...
