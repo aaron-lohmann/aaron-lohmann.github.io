@@ -53,7 +53,7 @@ format:
     df-print: kable
     comments:
       giscus:
-        repo: cgoo4/quantumjitter
+        repo: aaron-lohmann/aaron-lohmann.github.io
         category: "Comments"
         mapping: "pathname"
         reactions-enabled: true
@@ -69,4 +69,6 @@ filters:
 
 # Hello there!
 
-Welcome to my personal homepage. I am an aspiring empirical economist who is deeply interested in exploring aspects of digital economics. I explore theoretical and empirical contributions in this field mostly using data originating from Github. In case you are curious about my research or care to collaborate, feel free to contact me.
+I am an economist working on the software, innovation and international economics. Currently I am a PhD candidate at University Bielefeld and IfW Kiel. In my research project I explore empirical aspects of the geography of open source software production. Further, I am interested in knowledge diffusion in high skilled workers. A final interest is data privacy and its economic effects.
+
+If you want to collaborate, feel free to reach out.
