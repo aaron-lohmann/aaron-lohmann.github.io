@@ -69,6 +69,4 @@ filters:
 
 # Hello there!
 
-I am an economist working on software, innovation and international economics. Currently I am a PhD candidate at University Bielefeld and IfW Kiel. In my research project I explore empirical aspects of the geography of open source software production. Further, I am interested in knowledge diffusion in high skilled workers. A final interest is data privacy and its economic effects.
-
-If you want to collaborate, feel free to reach out.
+I am an economist working on the intersection of software, innovation and international economics. Currently I am a PhD candidate at University Bielefeld and IfW Kiel. My research focus is on characterizing aspects of the production of knowledge theoretically and empirically. In current research I study effects of geography on the production and provision of Open Source Software.
