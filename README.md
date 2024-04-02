@@ -1,3 +1,3 @@
-# [quantumjitter.com](https://quantumjitter.com)
+# Personal Website
 
-A personal data science and machine learning website published using [Quarto](https://quarto.org) with the [tidyverse](https://www.tidyverse.org) and [tidymodels](https://www.tidymodels.org) at its heart.
+Personal website based on [quantumjitter.com](https://quantumjitter.com). 
