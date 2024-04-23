@@ -51,15 +51,6 @@ format:
     smooth-scroll: true
     highlight-style: gruvbox
     df-print: kable
-    comments:
-      giscus:
-        repo: aaron-lohmann/aaron-lohmann.github.io
-        category: "Comments"
-        mapping: "pathname"
-        reactions-enabled: true
-        loading: lazy
-        input-position: "bottom"
-        theme: "transparent_dark"
 
 editor: visual
 
