@@ -123,6 +123,20 @@
     "href": "research/index.html#open-source-software-input-output-linkages",
     "title": "Research",
     "section": "Open Source Software Input Output linkages",
-    "text": "Open Source Software Input Output linkages"
+    "text": "Open Source Software Input Output linkages\n(with Gabor Bekes, Miklos Koren and Julian Hinz)\nSoftware ate the world and open source is eating software. According to a recent report by (synopsys2024ossra) about \\(96\\%\\) of commercial software uses Open Source Software (OSS). Another recent contribution by (hoffmann2024value) estimates the demand-side value of OSS to be \\(8.8\\) trillion USD. Still, economists only have limited understanding of this vital part of the modern digital infrastructure which is also due to the lack of tools to think about OSS. In this report, we focus on geographical aspects of the input output structure observed in five OSS ecosystems. We use tools of the Global Value Chains (GVCs) literature to build global Open-Source-Software-Input-Output (OSSIO) tables based on software dependencies.\nSubject to revision."
+  },
+  {
+    "objectID": "research/Open Source Input Output tables/index.html",
+    "href": "research/Open Source Input Output tables/index.html",
+    "title": "Open Source input output tables",
+    "section": "",
+    "text": "Open Source input output tables coming soon."
+  },
+  {
+    "objectID": "teaching/Untitled/index.html",
+    "href": "teaching/Untitled/index.html",
+    "title": "Reading Course in Statistical Sciences",
+    "section": "",
+    "text": "A reading course in statistical sciences held in the summer term of 2023 at university Bielefeld. Taking the wonderful book Causal Inference - The Mixtape by Scott Cunningham as a structuring guideline. Students had to present one method in each week and we discussed empirical papers applying these techniques all together."
   }
 ]

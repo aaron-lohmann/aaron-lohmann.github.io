@@ -30,5 +30,8 @@ Draft coming soon.
 
 ## Open Source Software Input Output linkages
 
+(with Gabor Bekes, Miklos Koren and Julian Hinz)
+
 Software ate the world and open source is eating software. According to a recent report by (synopsys2024ossra) about $96\%$ of commercial software uses Open Source Software (OSS). Another recent contribution by (hoffmann2024value) estimates the demand-side value of OSS to be $8.8$ trillion USD. Still, economists only have limited understanding of this vital part of the modern digital infrastructure which is also due to the lack of tools to think about OSS. In this report, we focus on geographical aspects of the input output structure observed in five OSS ecosystems. We use tools of the Global Value Chains (GVCs) literature to build global Open-Source-Software-Input-Output (OSSIO) tables based on software dependencies.
 
+Subject to revision.
