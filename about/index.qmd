@@ -7,6 +7,8 @@ about:
   links:
     - icon: github
       href: https://github.com/aaron-lohmann
+    - icon: twitter
+      href: https://twitter.com/lohmann_econ
 comments: false
 title-block-banner: true
 ---
