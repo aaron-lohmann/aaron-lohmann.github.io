@@ -61,3 +61,5 @@ filters:
 # Hello there!
 
 I am a PhD candidate at University Bielefeld and Institute for World economy (IfW) Kiel. I work on the intersection of trade, innovation and digital technology. Questions that are driving me are: How does geography shape collaboration patterns in a digital world? What can we learn from studying the development of Open Source Software? How do workers benefit from interaction and what are the effects on aggregate productivity?
+
+

@@ -25,7 +25,7 @@
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "(with Gabor Bekes, Julian Hinz and Miklos Koren)\nDraft coming soon."
+    "text": "(with Gabor Bekes, Julian Hinz and Miklos Koren)\nDraft coming soon.\n\n\n\nDraft coming soon.\n\n\n\n\n\n\n\n(with Gabor Bekes, Miklos Koren and Julian Hinz)\nSoftware ate the world and open source is eating software. According to a recent report by (synopsys2024ossra) about \\(96\\%\\) of commercial software uses Open Source Software (OSS). Another recent contribution by (hoffmann2024value) estimates the demand-side value of OSS to be \\(8.8\\) trillion USD. Still, economists only have limited understanding of this vital part of the modern digital infrastructure which is also due to the lack of tools to think about OSS. In this report, we focus on geographical aspects of the input output structure observed in five OSS ecosystems. We use tools of the Global Value Chains (GVCs) literature to build global Open-Source-Software-Input-Output (OSSIO) tables based on software dependencies.\nSubject to revision.\n\n\n\n\n\n\n2024\n\nFIW Vienna"
   },
   {
     "objectID": "teaching/index.html",
@@ -138,5 +138,19 @@
     "title": "Reading Course in Statistical Sciences",
     "section": "",
     "text": "A reading course in statistical sciences held in the summer term of 2023 at university Bielefeld. Taking the wonderful book Causal Inference - The Mixtape by Scott Cunningham as a structuring guideline. Students had to present one method in each week and we discussed empirical papers applying these techniques all together."
+  },
+  {
+    "objectID": "research/index.html#section",
+    "href": "research/index.html#section",
+    "title": "Research",
+    "section": "2024",
+    "text": "2024\n\nFIW Vienna"
+  },
+  {
+    "objectID": "research/index.html#research-projects",
+    "href": "research/index.html#research-projects",
+    "title": "Research",
+    "section": "",
+    "text": "(with Gabor Bekes, Julian Hinz and Miklos Koren)\nDraft coming soon.\n\n\n\nDraft coming soon.\n\n\n\n\n\n\n\n(with Gabor Bekes, Miklos Koren and Julian Hinz)\nSoftware ate the world and open source is eating software. According to a recent report by (synopsys2024ossra) about \\(96\\%\\) of commercial software uses Open Source Software (OSS). Another recent contribution by (hoffmann2024value) estimates the demand-side value of OSS to be \\(8.8\\) trillion USD. Still, economists only have limited understanding of this vital part of the modern digital infrastructure which is also due to the lack of tools to think about OSS. In this report, we focus on geographical aspects of the input output structure observed in five OSS ecosystems. We use tools of the Global Value Chains (GVCs) literature to build global Open-Source-Software-Input-Output (OSSIO) tables based on software dependencies.\nSubject to revision.\n\n\n\n\n\n\n2024\n\nFIW Vienna"
   }
 ]
