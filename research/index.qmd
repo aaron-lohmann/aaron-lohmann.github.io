@@ -20,7 +20,7 @@ comments: false
 
 ### Publications
 
----
+------------------------------------------------------------------------
 
 ### Work in progresss
 
@@ -34,14 +34,9 @@ Draft coming soon.
 
 Draft coming soon.
 
----
+------------------------------------------------------------------------
 
 ### Data
-
-
-
-
-
 
 ##### Open Source Software Input Output linkages
 
@@ -51,9 +46,14 @@ Software ate the world and open source is eating software. According to a recent
 
 Subject to revision.
 
----
+------------------------------------------------------------------------
 
 ### Conference Presentations/Seminars
 
-- 2024
-  - FIW Vienna
+-   2023: BiGSEM Seminar (University Bielefeld) , ETSG (Guildford), Firms and Productivity Workshop (Pescara) , Kiel-Aarhus Workshop (Sandbjerg)
+-   2024: FIW (Vienna), BiGSEM Seminar (University Bielefeld), EEA (Rotterdam)
+
+### Research visits
+
+- 2024 (February - June): Central European University, Vienna under supervision of Miklós Koren
+
