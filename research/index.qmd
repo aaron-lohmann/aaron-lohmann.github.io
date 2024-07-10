@@ -16,9 +16,6 @@ title-block-banner: true
 comments: false
 ---
 
-
-
-
 ### Work in progresss
 
 ##### Success and geography: Evidence from Open Source Software
