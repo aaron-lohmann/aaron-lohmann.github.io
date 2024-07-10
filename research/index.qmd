@@ -16,11 +16,8 @@ title-block-banner: true
 comments: false
 ---
 
-## Research projects
 
-### Publications
 
-------------------------------------------------------------------------
 
 ### Work in progresss
 
