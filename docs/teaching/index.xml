@@ -10,26 +10,6 @@
 <atom:link href="aaron-lohmann.github.io/teaching/index.xml" rel="self" type="application/rss+xml"/>
 <description>A personal website of Aaron Lohmann. Statistician and economist.</description>
 <generator>quarto-1.5.31</generator>
-<lastBuildDate>Mon, 15 May 2023 22:00:00 GMT</lastBuildDate>
-<item>
-  <title>Reading Course in Statistical Sciences</title>
-  <link>aaron-lohmann.github.io/teaching/Untitled/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><img src="aaron-lohmann.github.io/teaching/Untitled/syncontrol.png" class="img-fluid" alt="A boot withå a strap leans against a pile of ribbon-rolls"></p>
-<p>A reading course in statistical sciences held in the summer term of 2023 at university Bielefeld. Taking the wonderful book <em>Causal Inference - The Mixtape</em> by Scott Cunningham as a structuring guideline. Students had to present one method in each week and we discussed empirical papers applying these techniques all together.</p>
-
-
-
- ]]></description>
-  <category>R</category>
-  <category>causal inference</category>
-  <category>mixtape</category>
-  <guid>aaron-lohmann.github.io/teaching/Untitled/</guid>
-  <pubDate>Mon, 15 May 2023 22:00:00 GMT</pubDate>
-</item>
+<lastBuildDate>Thu, 05 Sep 2024 07:11:57 GMT</lastBuildDate>
 </channel>
 </rss>

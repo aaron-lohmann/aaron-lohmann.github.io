@@ -15,10 +15,8 @@ title-block-banner: true
 
 <div>
 
-My name is Aaron Lohmann, I am an econ PhD candidate at IfW Kiel and Bielefeld University. Deeply interested in empirical and theoretical economics research on aspects of the digital economy.
+My name is Aaron Lohmann, I am an econ PhD student at IfW Kiel and Bielefeld University. I work on the intersection of trade, innovation and digital technology. Currently, I spend most of my time on data from open source software developers using theoretical models from the trade/growth/production network literature. I care about understanding global collaboration patterns and long run growth in knowledge intensive sectors.
 
 Download my CV here: [Download CV](CV.pdf)
 
 </div>
-
-
