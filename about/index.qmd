@@ -5,17 +5,18 @@ image-alt: "Portrait photo of the author with a transparent background"
 about:
   template: trestles
   links:
-    - icon: github
+    - text: github
       href: https://github.com/aaron-lohmann
-    - icon: twitter
-      href: https://twitter.com/lohmann_econ
+    - text: bluesky
+      href: https://bsky.app/profile/aaron-lohmann.bsky.social
 comments: false
 title-block-banner: true
 ---
 
 <div>
 
-My name is Aaron Lohmann, I am an econ PhD student at IfW Kiel and Bielefeld University. I work on the intersection of trade, innovation and digital technology. Currently, I spend most of my time on data from open source software developers using theoretical models from the trade/growth/production network literature. I care about understanding global collaboration patterns and long run growth in knowledge intensive sectors.
+
+I'm Aaron, an economics PhD candidate at [IfW Kiel](https://www.kielinstitut.de) and [Bielefeld University](https://www.uni-bielefeld.de). My research focuses on the intersection of international trade, innovation, and digital technologies.
 
 Download my CV here: [Download CV](CV.pdf)
 

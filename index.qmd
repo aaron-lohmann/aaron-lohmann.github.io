@@ -58,6 +58,10 @@ filters:
   - quarto-version.lua
 ---
 
-# Hello there!
+# Welcome!
 
-I am a PhD student at University Bielefeld and Institute for the World economy (IfW) Kiel. I work on the intersection of trade, innovation and digital technology. Currently, I spend most of my time on data from open source software developers using theoretical models from the trade/growth/production network literature. I care about understanding global collaboration patterns and long run growth in knowledge intensive sectors.
+I'm Aaron, an economics PhD candidate at Kiel Institut and Bielefeld University. My research focuses on the intersection of international trade, innovation, and digital technologies.
+
+You can find my CV here.
+
+If you want to get in touch, feel free to email me: aaron.lohmann\@kielinstitut.de

@@ -3,7 +3,7 @@ title: "The Strange Case of the Absent Page"
 title-block-banner: true
 ---
 
-::: grid
+::::: grid
 ::: g-col-6
 ![](images/404-light.png){.light-mode} ![](images/404-dark.png){.dark-mode}
 :::
@@ -17,4 +17,4 @@ The game's afoot! The services of the master-sleuth himself, Sherlock Holmes, an
 
 In the meantime please try Sherlock's magnifying glass {{< fa magnifying-glass >}} top-right.
 :::
-:::
+:::::

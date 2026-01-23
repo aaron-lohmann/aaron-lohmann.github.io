@@ -1,6 +1,5 @@
 ---
 title: "Teaching"
-subtitle: "Teaching done in and out of university aslong as it is academically relevant."
 listing:
   contents: .
   fields: [image, date, title, description]
@@ -16,5 +15,6 @@ title-block-banner: true
 comments: false
 ---
 
-- 2023: Seminar on `Causal Infernece` (Master)
-- 2024: Teaching assistant for `Applied Statistics` (Bachelor); Seminar on `Modern Economics` (Bachelor); `Introduction to Causal Inference` (consultant outside university)
+-   2025: Teaching assistant for Applied Statistics (Bachelor); Seminar on Modern Economics (Bachelor)
+-   2024: Teaching assistant for `Applied Statistics` (Bachelor); Seminar on `Modern Economics` (Bachelor); `Introduction to Causal Inference` (consultant outside university)
+-   2023: Seminar on `Causal Infernece` (Master)

@@ -1,6 +1,5 @@
 ---
 title: "Code"
-subtitle: "Code I want to share as it may help someone out."
 listing:
   contents: .
   fields: [image, date, title, reading-time, description]
@@ -18,6 +17,4 @@ comments: false
 
 # R packages
 
--   [`narrSVAR`](https://github.com/aaron-lohmann/narrSVAR) R package to estimate SVAR models with sign restrictions and importantly narrtive sign restrictions as discussed in AR18.  
-
-
+-   [`narrSVAR`](https://github.com/aaron-lohmann/narrSVAR) R package to estimate SVAR models with sign restrictions and importantly narrtive sign restrictions as discussed in AR18.
