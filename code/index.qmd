@@ -5,7 +5,6 @@ listing:
   fields: [image, date, title, reading-time, description]
   sort: "date desc"
   type: grid
-  categories: numbered
   sort-ui: false
   filter-ui: false
   feed: 

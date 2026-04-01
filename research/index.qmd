@@ -5,11 +5,8 @@ listing:
   fields: [image, date, title, reading-time, description]
   sort: "date desc"
   type: grid
-  categories: numbered
   sort-ui: false
   filter-ui: false
-  feed: 
-    categories: R
 page-layout: full
 title-block-banner: true
 comments: false
@@ -17,32 +14,32 @@ comments: false
 
 ### Work in progresss
 
-- `More peers, more recombination but less exploration: Evidence from software developers`
+-   `More peers, more recombination but less exploration: Evidence from software developers` -- Draft comming soon.
 
--   `When dispersed teams are more successful: Theory and evidence from software` -- with [Gábor Békes](https://sites.google.com/site/bekesg/), [Julian Hinz](https://julianhinz.com), [Miklós Koren](https://koren.mk) 
+-   `When dispersed teams are more successful: Theory and evidence from software` -- with [Gábor Békes](https://sites.google.com/site/bekesg/), [Julian Hinz](https://julianhinz.com), [Miklós Koren](https://koren.mk) -- Draft coming soon.
 
--   `Vibe Coding Kills Open Souce` -- with [Miklós Koren](https://koren.mk), [Gábor Békes](https://sites.google.com/site/bekesg/) and [Julian Hinz](https://julianhinz.com) -- [Link to Paper](https://arxiv.org/abs/2601.15494)
+- `Vibe Coding Kills Open Source` -- with [Miklós Koren](https://koren.mk), [Gábor Békes](https://sites.google.com/site/bekesg/) and [Julian Hinz](https://julianhinz.com) -- [Link to Paper](https://arxiv.org/abs/2601.15494)  
+(_Selected media coverage:_ [Handelsblatt](https://www.handelsblatt.com/technik/ki/ki-warum-die-kuenstliche-intelligenz-gerade-eine-neue-stufe-erreicht-04/100197888.html), [The register](https://www.theregister.com/2026/01/26/vibe_coding_hazardous_open_source/) [404 Media](https://www.404media.co/vibe-coding-is-killing-open-source-software-researchers-argue/))
+
+- `Code without Borders? Global Value Chains in Open Source Software Development` -- with [Gábor Békes](https://sites.google.com/site/bekesg/), [Julian Hinz](https://julianhinz.com), [Miklós Koren](https://koren.mk) -- Draft coming soon.
+
 
 ------------------------------------------------------------------------
 
-
 ### Policy Papers
 
-- `America's Own Goal: Who Pays the Tarifs? -- with [Julian Hinz](https://julianhinz.com), [Hendrik Mahlkow](https://www.hendrikmahlkow.com), [Anna Vorwig](https://www.kielinstitut.de/experts/anna-vorwig/) -- [Link to Paper](https://www.kielinstitut.de/publications/americas-own-goal-who-pays-the-tariffs-19398/)
-
-### Data
-
--   `Open Source Software Input Output linkages` -- with [Gábor Békes](https://sites.google.com/site/bekesg/), [Julian Hinz](https://julianhinz.com), [Miklós Koren](https://koren.mk)
+-   `America's Own Goal: Who Pays the Tarifs?` -- with [Julian Hinz](https://julianhinz.com), [Hendrik Mahlkow](https://www.hendrikmahlkow.com), [Anna Vorwig](https://www.kielinstitut.de/experts/anna-vorwig/) -- [Link to Paper](https://www.kielinstitut.de/publications/americas-own-goal-who-pays-the-tariffs-19398/)
+(_Selected media coverage:_ [Wall Street Journal](https://www.wsj.com/economy/trade/americans-are-the-ones-paying-for-tariffs-study-finds-e254ed2e), [Die Zeit](https://www.zeit.de/wirtschaft/2026-01/ifw-kiel-usa-strafzoelle-donald-trump-kosten-us-wirtschaft-gxe) [The Economist](https://www.economist.com/finance-and-economics/2026/01/19/donald-trumps-greenland-tariffs-are-no-great-blow-to-europe) ) 
 
 ------------------------------------------------------------------------
 
 ### Conference Presentations/Seminars
 
--   **2025**: Rethink-GSC Workshop (Gdansk) , BiGSEM Seminar (University Bielefeld) , EEA (Bordeaux) , ETSG (Milan)
--   **2024**: FIW (Vienna), BiGSEM Seminar (University Bielefeld), EEA (Rotterdam)
--   **2023**: BiGSEM Seminar (University Bielefeld) , ETSG (Guildford), Firms and Productivity Workshop (Pescara) , Kiel-Aarhus Workshop (Sandbjerg)
+-   **2025**: Rethink-GSC Workshop (Gdansk) , BiGSEM Seminar (Bielefeld) , EEA (Bordeaux) , ETSG (Milan)
+-   **2024**: FIW (Vienna), BiGSEM Seminar (Bielefeld), EEA (Rotterdam), Kiel-Aarhus Workshop (Sandbjerg)
+-   **2023**: BiGSEM Seminar (Bielefeld) , ETSG (Guildford), Firms and Productivity Workshop (Pescara) , Kiel-Aarhus Workshop (Sandbjerg)
 
 ### Research visits
 
--   **2026** (January - April): University of Toronto, Toronto under supervision of Ruben Gaetani
--   **2024** (February - June): Central European University, Vienna under supervision of Miklós Koren
+-   **2026** (January - April): University of Toronto, Toronto under supervision of [Ruben Gaetani](https://sites.google.com/view/rubengaetani)
+-   **2024** (February - June): Central European University, Vienna under supervision of [Miklós Koren](https://koren.mk)
