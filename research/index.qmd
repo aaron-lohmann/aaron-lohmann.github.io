@@ -19,7 +19,7 @@ comments: false
 -   `When dispersed teams are more successful: Theory and evidence from software` -- with [Gábor Békes](https://sites.google.com/site/bekesg/), [Julian Hinz](https://julianhinz.com), [Miklós Koren](https://koren.mk) -- Draft coming soon.
 
 - `Vibe Coding Kills Open Source` -- with [Miklós Koren](https://koren.mk), [Gábor Békes](https://sites.google.com/site/bekesg/) and [Julian Hinz](https://julianhinz.com) -- [Link to Paper](https://arxiv.org/abs/2601.15494)  
-(_Selected media coverage:_ [Handelsblatt](https://www.handelsblatt.com/technik/ki/ki-warum-die-kuenstliche-intelligenz-gerade-eine-neue-stufe-erreicht-04/100197888.html), [The register](https://www.theregister.com/2026/01/26/vibe_coding_hazardous_open_source/) [404 Media](https://www.404media.co/vibe-coding-is-killing-open-source-software-researchers-argue/))
+(_Selected media coverage:_ [Handelsblatt](https://www.handelsblatt.com/technik/ki/ki-warum-die-kuenstliche-intelligenz-gerade-eine-neue-stufe-erreicht-04/100197888.html), [The register](https://www.theregister.com/2026/01/26/vibe_coding_hazardous_open_source/) [404 Media](https://www.404media.co/vibe-coding-is-killing-open-source-software-researchers-argue/) , Listen to Miklós discuss our paper and more on the podcast [PracticalAI](https://practicalai.fm))
 
 - `Code without Borders? Global Value Chains in Open Source Software Development` -- with [Gábor Békes](https://sites.google.com/site/bekesg/), [Julian Hinz](https://julianhinz.com), [Miklós Koren](https://koren.mk) -- Draft coming soon.
 

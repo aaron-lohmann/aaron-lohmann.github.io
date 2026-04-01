@@ -7,13 +7,11 @@ listing:
   type: grid
   sort-ui: false
   filter-ui: false
-  feed: 
-    categories: R
 page-layout: full
 title-block-banner: true
 comments: false
 ---
 
-# R packages
+### R packages
 
 -   [`narrSVAR`](https://github.com/aaron-lohmann/narrSVAR) R package to estimate SVAR models with sign restrictions and importantly narrtive sign restrictions as discussed in AR18.

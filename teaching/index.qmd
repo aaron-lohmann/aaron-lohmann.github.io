@@ -14,6 +14,6 @@ title-block-banner: true
 comments: false
 ---
 
--   2025: Teaching assistant for Applied Statistics (Bachelor); Seminar on Modern Economics (Bachelor)
+-   2025: Teaching assistant and substitute lecturer for `Applied Statistics` (Bachelor); Seminar on `Modern Economics` (Bachelor)
 -   2024: Teaching assistant for `Applied Statistics` (Bachelor); Seminar on `Modern Economics` (Bachelor); `Introduction to Causal Inference` (consultant outside university)
 -   2023: Seminar on `Causal Infernece` (Master)
