@@ -62,6 +62,6 @@ filters:
 
 I'm Aaron, an economics PhD candidate at Kiel Institut and Bielefeld University. My research focuses on the intersection of international trade, innovation, and digital technologies.
 
-You can find my CV here.
+You can find my CV [here](docs/about/CV.pdf).
 
-If you want to get in touch, feel free to email me: aaron.lohmann\@kielinstitut.de
+If you want to get in touch, feel free to email me: [aaron.lohmann@kielinstitut.de](mailto:aaron.lohmann@kielinstitut.de)
