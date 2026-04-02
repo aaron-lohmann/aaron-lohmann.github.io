@@ -39,5 +39,5 @@ comments: false
 
 ### Research visits
 
--   **2026** (January - April): University of Toronto, Toronto under supervision of [Ruben Gaetani](https://sites.google.com/view/rubengaetani)
--   **2024** (February - June): Central European University, Vienna under supervision of [Miklós Koren](https://koren.mk)
+-   **2026** (January - April): University of Toronto, Toronto, under supervision of [Ruben Gaetani](https://sites.google.com/view/rubengaetani)
+-   **2024** (February - June): Central European University, Vienna, under supervision of [Miklós Koren](https://koren.mk)
