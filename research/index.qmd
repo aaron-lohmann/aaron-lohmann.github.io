@@ -14,7 +14,7 @@ comments: false
 
 ### Work in progresss
 
--   `More peers, more recombination but less exploration: Evidence from software developers` -- Draft comming soon.
+-   `More peers, more recombination but less exploration: Evidence from software developers` -- Draft coming soon.
 
 -   `When dispersed teams are more successful: Theory and evidence from software` -- with [Gábor Békes](https://sites.google.com/site/bekesg/), [Julian Hinz](https://julianhinz.com), [Miklós Koren](https://koren.mk) -- Draft coming soon.
 
