@@ -24,8 +24,6 @@ website:
         href: about/index.qmd
       - text: Research
         href: research/index.qmd
-      - text: Code
-        href: code/index.qmd
       - text: Teaching
         href: teaching/index.qmd
       - icon: github
@@ -62,4 +60,4 @@ I'm Aaron, an economics PhD candidate at Kiel Institut and Bielefeld University.
 
 You can find my CV [here](docs/about/CV.pdf).
 
-If you want to get in touch, feel free to email me: [aaron.lohmann@kielinstitut.de](mailto:aaron.lohmann@kielinstitut.de)
+If you want to get in touch, feel free to email me: [aaron.lohmann\@kielinstitut.de](mailto:aaron.lohmann@kielinstitut.de)

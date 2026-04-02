@@ -18,18 +18,16 @@ comments: false
 
 -   `When dispersed teams are more successful: Theory and evidence from software` -- with [Gábor Békes](https://sites.google.com/site/bekesg/), [Julian Hinz](https://julianhinz.com), [Miklós Koren](https://koren.mk) -- Draft coming soon.
 
-- `Vibe Coding Kills Open Source` -- with [Miklós Koren](https://koren.mk), [Gábor Békes](https://sites.google.com/site/bekesg/) and [Julian Hinz](https://julianhinz.com) -- [Link to Paper](https://arxiv.org/abs/2601.15494)  
-(_Selected media coverage:_ [Handelsblatt](https://www.handelsblatt.com/technik/ki/ki-warum-die-kuenstliche-intelligenz-gerade-eine-neue-stufe-erreicht-04/100197888.html), [The register](https://www.theregister.com/2026/01/26/vibe_coding_hazardous_open_source/) [404 Media](https://www.404media.co/vibe-coding-is-killing-open-source-software-researchers-argue/) , Listen to Miklós discuss our paper and more on the podcast [PracticalAI](https://practicalai.fm))
+-   `Vibe Coding Kills Open Source` -- with [Miklós Koren](https://koren.mk), [Gábor Békes](https://sites.google.com/site/bekesg/) and [Julian Hinz](https://julianhinz.com) -- [Link to Paper](https://arxiv.org/abs/2601.15494)\
+    (*Selected media coverage:* [Handelsblatt](https://www.handelsblatt.com/technik/ki/ki-warum-die-kuenstliche-intelligenz-gerade-eine-neue-stufe-erreicht-04/100197888.html), [The register](https://www.theregister.com/2026/01/26/vibe_coding_hazardous_open_source/) [404 Media](https://www.404media.co/vibe-coding-is-killing-open-source-software-researchers-argue/) , Listen to Miklós discuss our paper and more on the podcast [PracticalAI](https://practicalai.fm))
 
-- `Code without Borders? Global Value Chains in Open Source Software Development` -- with [Gábor Békes](https://sites.google.com/site/bekesg/), [Julian Hinz](https://julianhinz.com), [Miklós Koren](https://koren.mk) -- Draft coming soon.
-
+-   `Code without Borders? Global Value Chains in Open Source Software Development` -- with [Gábor Békes](https://sites.google.com/site/bekesg/), [Julian Hinz](https://julianhinz.com), [Miklós Koren](https://koren.mk) -- Draft coming soon.
 
 ------------------------------------------------------------------------
 
 ### Policy Papers
 
--   `America's Own Goal: Who Pays the Tarifs?` -- with [Julian Hinz](https://julianhinz.com), [Hendrik Mahlkow](https://www.hendrikmahlkow.com), [Anna Vorwig](https://www.kielinstitut.de/experts/anna-vorwig/) -- [Link to Paper](https://www.kielinstitut.de/publications/americas-own-goal-who-pays-the-tariffs-19398/)
-(_Selected media coverage:_ [Wall Street Journal](https://www.wsj.com/economy/trade/americans-are-the-ones-paying-for-tariffs-study-finds-e254ed2e), [Die Zeit](https://www.zeit.de/wirtschaft/2026-01/ifw-kiel-usa-strafzoelle-donald-trump-kosten-us-wirtschaft-gxe) [The Economist](https://www.economist.com/finance-and-economics/2026/01/19/donald-trumps-greenland-tariffs-are-no-great-blow-to-europe) ) 
+-   `America's Own Goal: Who Pays the Tarifs?` -- with [Julian Hinz](https://julianhinz.com), [Hendrik Mahlkow](https://www.hendrikmahlkow.com), [Anna Vorwig](https://www.kielinstitut.de/experts/anna-vorwig/) -- [Link to Paper](https://www.kielinstitut.de/publications/americas-own-goal-who-pays-the-tariffs-19398/) (*Selected media coverage:* [Wall Street Journal](https://www.wsj.com/economy/trade/americans-are-the-ones-paying-for-tariffs-study-finds-e254ed2e), [Die Zeit](https://www.zeit.de/wirtschaft/2026-01/ifw-kiel-usa-strafzoelle-donald-trump-kosten-us-wirtschaft-gxe) [The Economist](https://www.economist.com/finance-and-economics/2026/01/19/donald-trumps-greenland-tariffs-are-no-great-blow-to-europe) )
 
 ------------------------------------------------------------------------
 
