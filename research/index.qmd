@@ -12,7 +12,7 @@ title-block-banner: true
 comments: false
 ---
 
-### Work in progresss
+### Work in progress
 
 -   `More peers, more recombination but less exploration: Evidence from software developers` -- Draft coming soon.
 
