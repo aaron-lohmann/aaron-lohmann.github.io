@@ -1,79 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.quantumjitter.com/LICENSE.html</loc>
-    <lastmod>2023-05-15T13:28:49.282Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.quantumjitter.com/test/UntitledQMD.html</loc>
-    <lastmod>2023-05-15T13:28:49.661Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.quantumjitter.com/about/index.html</loc>
-    <lastmod>2023-05-15T14:08:46.996Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.quantumjitter.com/index.html</loc>
-    <lastmod>2023-05-15T14:03:56.061Z</lastmod>
+    <loc>aaron-lohmann.github.io/teaching/index.html</loc>
+    <lastmod>2026-04-01T14:44:08.492Z</lastmod>
   </url>
   <url>
     <loc>aaron-lohmann.github.io/about/index.html</loc>
-    <lastmod>2026-04-01T14:41:16.547Z</lastmod>
+    <lastmod>2026-04-02T07:24:15.207Z</lastmod>
   </url>
   <url>
-    <loc>aaron-lohmann.github.io/index.html</loc>
-    <lastmod>2026-04-01T13:54:55.870Z</lastmod>
+    <loc>aaron-lohmann.github.io/LICENSE.html</loc>
+    <lastmod>2024-04-02T06:01:08.186Z</lastmod>
   </url>
   <url>
     <loc>aaron-lohmann.github.io/research/index.html</loc>
     <lastmod>2026-04-02T07:18:37.500Z</lastmod>
   </url>
   <url>
-    <loc>aaron-lohmann.github.io/teaching/index.html</loc>
-    <lastmod>2026-04-01T14:44:08.492Z</lastmod>
-  </url>
-  <url>
-    <loc>aaron-lohmann.github.io/research/bands/index.html</loc>
-    <lastmod>2023-05-16T06:10:43.969Z</lastmod>
+    <loc>aaron-lohmann.github.io/license/index.html</loc>
+    <lastmod>2024-04-02T06:01:08.547Z</lastmod>
   </url>
   <url>
     <loc>aaron-lohmann.github.io/code/index.html</loc>
     <lastmod>2026-04-02T07:17:59.920Z</lastmod>
   </url>
   <url>
-    <loc>aaron-lohmann.github.io/research/Reading Course in Statistical Sciences/index.html</loc>
-    <lastmod>2024-04-02T06:01:08.552Z</lastmod>
-  </url>
-  <url>
-    <loc>aaron-lohmann.github.io/teaching/Reading Course in Statistical Sciences/index.html</loc>
-    <lastmod>2024-04-02T06:01:58.660Z</lastmod>
-  </url>
-  <url>
-    <loc>aaron-lohmann.github.io/LICENSE.html</loc>
-    <lastmod>2023-05-23T12:32:42.578Z</lastmod>
-  </url>
-  <url>
-    <loc>aaron-lohmann.github.io/license/index.html</loc>
-    <lastmod>2024-04-02T06:01:57.089Z</lastmod>
-  </url>
-  <url>
-    <loc>aaron-lohmann.github.io/research/QJE - Reading Group/index.html</loc>
-    <lastmod>2023-05-25T11:48:06.624Z</lastmod>
-  </url>
-  <url>
-    <loc>aaron-lohmann.github.io/research/qje_reading_group/index.html</loc>
-    <lastmod>2024-04-02T06:01:56.859Z</lastmod>
-  </url>
-  <url>
-    <loc>aaron-lohmann.github.io/code/financial_ts/index.html</loc>
-    <lastmod>2023-05-26T05:37:31.222Z</lastmod>
-  </url>
-  <url>
-    <loc>aaron-lohmann.github.io/research/Open Source Input Output tables/index.html</loc>
-    <lastmod>2024-04-23T08:49:48.193Z</lastmod>
-  </url>
-  <url>
-    <loc>aaron-lohmann.github.io/teaching/Untitled/index.html</loc>
-    <lastmod>2024-04-23T08:47:13.234Z</lastmod>
+    <loc>aaron-lohmann.github.io/index.html</loc>
+    <lastmod>2026-04-02T07:27:58.593Z</lastmod>
   </url>
 </urlset>

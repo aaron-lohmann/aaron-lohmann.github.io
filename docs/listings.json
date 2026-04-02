@@ -1,6 +1,6 @@
 [
   {
-    "listing": "/test/UntitledQMD.html",
+    "listing": "/teaching/index.html",
     "items": []
   },
   {
@@ -8,15 +8,11 @@
     "items": []
   },
   {
-    "listing": "/teaching/index.html",
+    "listing": "/license/index.html",
     "items": []
   },
   {
     "listing": "/code/index.html",
-    "items": []
-  },
-  {
-    "listing": "/license/index.html",
     "items": []
   }
 ]

@@ -1,24 +1,24 @@
 [
   {
-    "objectID": "LICENSE.html",
-    "href": "LICENSE.html",
-    "title": "Aaron Lohmann",
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching",
     "section": "",
-    "text": "MIT License\nInclusion of Copyright (c) 2023 quantumjitter Carl Goodwin as this website is largely a fork from the quantumjitter side.\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
-  },
-  {
-    "objectID": "test/UntitledQMD.html",
-    "href": "test/UntitledQMD.html",
-    "title": "asd",
-    "section": "",
-    "text": "No matching items"
+    "text": "2025: Teaching assistant and substitute lecturer for Applied Statistics (Bachelor); Seminar on Modern Economics (Bachelor)\n2024: Teaching assistant for Applied Statistics (Bachelor); Seminar on Modern Economics (Bachelor); Introduction to Causal Inference (consultant outside university)\n2023: Seminar on Causal Infernece (Master)\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about/index.html",
     "href": "about/index.html",
     "title": "Aaron Lohmann",
     "section": "",
-    "text": "I’m Aaron, an economics PhD candidate at IfW Kiel and Bielefeld University. My research focuses on the intersection of international trade, innovation, and digital technologies.\nDownload my CV here: Download CV\nIf you want to get in touch, feel free to email me: aaron.lohmann@kielinstitut.de"
+    "text": "I’m Aaron, an economics PhD candidate at IfW Kiel and Bielefeld University. My research focuses on the intersection of international trade, innovation, and digital technologies.\nDownload my CV here: Download CV"
+  },
+  {
+    "objectID": "LICENSE.html",
+    "href": "LICENSE.html",
+    "title": "MIT License",
+    "section": "",
+    "text": "MIT License\nInclusion of Copyright (c) 2023 quantumjitter Carl Goodwin as this website is largely a fork from the quantumjitter side.\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
   },
   {
     "objectID": "research/index.html",
@@ -28,18 +28,11 @@
     "text": "Work in progresss\n\nMore peers, more recombination but less exploration: Evidence from software developers – Draft coming soon.\nWhen dispersed teams are more successful: Theory and evidence from software – with Gábor Békes, Julian Hinz, Miklós Koren – Draft coming soon.\nVibe Coding Kills Open Source – with Miklós Koren, Gábor Békes and Julian Hinz – Link to Paper\n(Selected media coverage: Handelsblatt, The register 404 Media , Listen to Miklós discuss our paper and more on the podcast PracticalAI)\nCode without Borders? Global Value Chains in Open Source Software Development – with Gábor Békes, Julian Hinz, Miklós Koren – Draft coming soon.\n\n\n\n\nPolicy Papers\n\nAmerica's Own Goal: Who Pays the Tarifs? – with Julian Hinz, Hendrik Mahlkow, Anna Vorwig – Link to Paper (Selected media coverage: Wall Street Journal, Die Zeit The Economist )\n\n\n\n\nConference Presentations/Seminars\n\n2025: Rethink-GSC Workshop (Gdansk) , BiGSEM Seminar (Bielefeld) , EEA (Bordeaux) , ETSG (Milan)\n2024: FIW (Vienna), BiGSEM Seminar (Bielefeld), EEA (Rotterdam), Kiel-Aarhus Workshop (Sandbjerg)\n2023: BiGSEM Seminar (Bielefeld) , ETSG (Guildford), Firms and Productivity Workshop (Pescara) , Kiel-Aarhus Workshop (Sandbjerg)\n\n\n\nResearch visits\n\n2026 (January - April): University of Toronto, Toronto under supervision of Ruben Gaetani\n2024 (February - June): Central European University, Vienna under supervision of Miklós Koren\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "teaching/index.html",
-    "href": "teaching/index.html",
-    "title": "Teaching",
+    "objectID": "license/index.html",
+    "href": "license/index.html",
+    "title": "License",
     "section": "",
-    "text": "2025: Teaching assistant for Applied Statistics (Bachelor); Seminar on Modern Economics (Bachelor)\n2024: Teaching assistant for Applied Statistics (Bachelor); Seminar on Modern Economics (Bachelor); Introduction to Causal Inference (consultant outside university)\n2023: Seminar on Causal Infernece (Master)\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "research/bands/index.html",
-    "href": "research/bands/index.html",
-    "title": "Bootstraps & Bandings",
-    "section": "",
-    "text": "Are the residential property bands of 3 decades ago becoming less so? Would a sample of those recently-sold reveal band convergence? And what may be inferred about those not sampled?\nOver the years, urban properties have been added to and divided up. And two streets of equal attractiveness, and with equivalently-banded properties, may have diverged as neighbourhoods evolved.\nWhilst properties can and do move to higher or lower bands following alteration, would a sample of those recently-sold reveal band convergence after so long? And what may be inferred about the wider housing stock?"
+    "text": "MIT License\nInclusion of Copyright (c) 2023 quantumjitter Carl Goodwin as this website is largely a fork from the quantumjitter side.\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "code/index.html",
@@ -49,115 +42,10 @@
     "text": "R packages\n\nnarrSVAR R package to estimate SVAR models with sign restrictions and importantly narrtive sign restrictions as discussed in AR18.\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "index.html#this-website-is-still-under-construction",
-    "href": "index.html#this-website-is-still-under-construction",
-    "title": "Aaron Lohmann",
-    "section": "This website is still under construction!",
-    "text": "This website is still under construction!"
-  },
-  {
-    "objectID": "research/Reading Course in Statistical Sciences/index.html",
-    "href": "research/Reading Course in Statistical Sciences/index.html",
-    "title": "Reading Course in Statistical Sciences",
-    "section": "",
-    "text": "A reading course in statistical sciences held in the summer term of 2023 at university Bielefeld. Taking the wonderful book Causal Inference - The Mixtape by Scott Cunningham as a structuring guideline. Students had to present one method in each week and we discussed empirical papers applying these techniques all together."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome!",
     "section": "",
     "text": "Welcome!\nI’m Aaron, an economics PhD candidate at Kiel Institut and Bielefeld University. My research focuses on the intersection of international trade, innovation, and digital technologies.\nYou can find my CV here.\nIf you want to get in touch, feel free to email me: aaron.lohmann@kielinstitut.de"
-  },
-  {
-    "objectID": "teaching/Reading Course in Statistical Sciences/index.html",
-    "href": "teaching/Reading Course in Statistical Sciences/index.html",
-    "title": "Reading Course in Statistical Sciences",
-    "section": "",
-    "text": "A reading course in statistical sciences held in the summer term of 2023 at university Bielefeld. Taking the wonderful book Causal Inference - The Mixtape by Scott Cunningham as a structuring guideline. Students had to present one method in each week and we discussed empirical papers applying these techniques all together."
-  },
-  {
-    "objectID": "license/index.html",
-    "href": "license/index.html",
-    "title": "License",
-    "section": "",
-    "text": "MIT License\nInclusion of Copyright (c) 2023 quantumjitter Carl Goodwin as this website is largely a fork from the quantumjitter side.\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "research/QJE - Reading Group/index.html",
-    "href": "research/QJE - Reading Group/index.html",
-    "title": "QJE - PhD Reading Group",
-    "section": "",
-    "text": "This reading group intends to discuss the current research in brought aspects of economics. It is designed from PhD students for PhD students. All PhD students in the field of economics are warmly invited. We discuss every two to three weeks one of the papers in the most recent issue of Quartely Journal of Economics. The scope of the reading group is intentionally brought to allow us doctoral students a brought understanding of economics instead of focusing narrowly on our own research topics."
-  },
-  {
-    "objectID": "research/QJE - Reading Group/index.html#schedule",
-    "href": "research/QJE - Reading Group/index.html#schedule",
-    "title": "QJE - PhD Reading Group",
-    "section": "Schedule",
-    "text": "Schedule\n\n\n\n\n\n\n\nDate\nTopic\n\n\n\n\n01.06.2023 - 4 pm (Central European Time)\nWeb of Power: How Elite Networks Shaped War and Politics in China - Ying Bai, Ruixue Jia, Jiaojiao Yang"
-  },
-  {
-    "objectID": "research/qje_reading_group/index.html",
-    "href": "research/qje_reading_group/index.html",
-    "title": "QJE - PhD Reading Group",
-    "section": "",
-    "text": "This reading group intends to discuss the current research in brought aspects of economics. It is designed from PhD students for PhD students. All PhD students in the field of economics are warmly invited. We discuss every two to three weeks one of the papers in the most recent issue of Quartely Journal of Economics. The scope of the reading group is intentionally brought to allow us doctoral students a brought understanding of economics instead of focusing narrowly on our own research topics."
-  },
-  {
-    "objectID": "research/qje_reading_group/index.html#schedule",
-    "href": "research/qje_reading_group/index.html#schedule",
-    "title": "QJE - PhD Reading Group",
-    "section": "Schedule",
-    "text": "Schedule\n\n\n\n\n\n\n\nDate\nTopic\n\n\n\n\n01.06.2023 - 4 pm (Central European Time)\nWeb of Power: How Elite Networks Shaped War and Politics in China - Ying Bai, Ruixue Jia, Jiaojiao Yang (2023)\n\n\n15.06.2023 - 4 pm (Central European Time)\nThe Fractured-Land Hypothesis - Jesús Fernández-Villaverde, Mark Koyama, Youhong Lin, Tuan-Hwee Sng (2023)\n\n\n06.07.2023 - 4 pm (Central European Time)\nThe Growing Importance of Social Skills in the Labor Market - David J. Deming (2017)"
-  },
-  {
-    "objectID": "code/financial_ts/index.html",
-    "href": "code/financial_ts/index.html",
-    "title": "Yahoo is still useful - sort of",
-    "section": "",
-    "text": "Yes Yahoo still exists. Forgotten by most, it can however still serve as a wonderful data source for downloading financial data. Here, I cover a very simple code which allows to download multiple financial time series at once, match observational periods, save the data and produce plots of values and returns of those time series. Nothing fancy and is something I did as a research assistant some time back but still maybe it is useful to someone."
-  },
-  {
-    "objectID": "research/index.html#open-source-software-input-output-linkages",
-    "href": "research/index.html#open-source-software-input-output-linkages",
-    "title": "Research",
-    "section": "Open Source Software Input Output linkages",
-    "text": "Open Source Software Input Output linkages\n(with Gabor Bekes, Miklos Koren and Julian Hinz)\nSoftware ate the world and open source is eating software. According to a recent report by (synopsys2024ossra) about \\(96\\%\\) of commercial software uses Open Source Software (OSS). Another recent contribution by (hoffmann2024value) estimates the demand-side value of OSS to be \\(8.8\\) trillion USD. Still, economists only have limited understanding of this vital part of the modern digital infrastructure which is also due to the lack of tools to think about OSS. In this report, we focus on geographical aspects of the input output structure observed in five OSS ecosystems. We use tools of the Global Value Chains (GVCs) literature to build global Open-Source-Software-Input-Output (OSSIO) tables based on software dependencies.\nSubject to revision."
-  },
-  {
-    "objectID": "research/Open Source Input Output tables/index.html",
-    "href": "research/Open Source Input Output tables/index.html",
-    "title": "Open Source input output tables",
-    "section": "",
-    "text": "Open Source input output tables coming soon."
-  },
-  {
-    "objectID": "teaching/Untitled/index.html",
-    "href": "teaching/Untitled/index.html",
-    "title": "Reading Course in Statistical Sciences",
-    "section": "",
-    "text": "A reading course in statistical sciences held in the summer term of 2023 at university Bielefeld. Taking the wonderful book Causal Inference - The Mixtape by Scott Cunningham as a structuring guideline. Students had to present one method in each week and we discussed empirical papers applying these techniques all together."
-  },
-  {
-    "objectID": "research/index.html#section",
-    "href": "research/index.html#section",
-    "title": "Research",
-    "section": "2024",
-    "text": "2024\n\nFIW Vienna"
-  },
-  {
-    "objectID": "research/index.html#research-projects",
-    "href": "research/index.html#research-projects",
-    "title": "Research",
-    "section": "",
-    "text": "(with Gabor Bekes, Julian Hinz and Miklos Koren)\nDraft coming soon.\n\n\n\nDraft coming soon.\n\n\n\n\n\n\n\n(with Gabor Bekes, Miklos Koren and Julian Hinz)\nSoftware ate the world and open source is eating software. According to a recent report by (synopsys2024ossra) about \\(96\\%\\) of commercial software uses Open Source Software (OSS). Another recent contribution by (hoffmann2024value) estimates the demand-side value of OSS to be \\(8.8\\) trillion USD. Still, economists only have limited understanding of this vital part of the modern digital infrastructure which is also due to the lack of tools to think about OSS. In this report, we focus on geographical aspects of the input output structure observed in five OSS ecosystems. We use tools of the Global Value Chains (GVCs) literature to build global Open-Source-Software-Input-Output (OSSIO) tables based on software dependencies.\nSubject to revision.\n\n\n\n\n\n\n2023: BiGSEM Seminar (University Bielefeld) , ETSG (Guildford), Firms and Productivity Workshop (Pescara) , Kiel-Aarhus Workshop (Sandbjerg)\n2024: FIW (Vienna), BiGSEM Seminar (University Bielefeld), EEA (Rotterdam)\n\n\n\n\n\n2024 (February - June): Central European University, Vienna under supervision of Miklós Koren"
-  },
-  {
-    "objectID": "research/index.html#featured-in",
-    "href": "research/index.html#featured-in",
-    "title": "Research",
-    "section": "Featured in",
-    "text": "Featured in\n\nPolicy Papers\n\nAmerica's Own Goal: Who Pays the Tarifs? – with Julian Hinz, Hendrik Mahlkow, Anna Vorwig – Link to Paper\n\n\n\nData\n\nOpen Source Software Input Output linkages – with Gábor Békes, Julian Hinz, Miklós Koren\n\n\n\n\nConference Presentations/Seminars\n\n2025: Rethink-GSC Workshop (Gdansk) , BiGSEM Seminar (University Bielefeld) , EEA (Bordeaux) , ETSG (Milan)\n2024: FIW (Vienna), BiGSEM Seminar (University Bielefeld), EEA (Rotterdam)\n2023: BiGSEM Seminar (University Bielefeld) , ETSG (Guildford), Firms and Productivity Workshop (Pescara) , Kiel-Aarhus Workshop (Sandbjerg)\n\n\n\nResearch visits\n\n2026 (January - April): University of Toronto, Toronto under supervision of Ruben Gaetani\n2024 (February - June): Central European University, Vienna under supervision of Miklós Koren"
   }
 ]

@@ -1,3 +1,7 @@
 .card-file-modified:before {
     content: "Updated: ";
 }
+
+.navbar-brand-logo .navbar-logo {
+    max-height: 48px;
+}

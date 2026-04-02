@@ -41,9 +41,7 @@ website:
 
 format:
   html:
-    theme:
-      light: [flatly, scss/light.scss]
-      dark: [darkly, scss/dark.scss]
+    theme: [flatly, scss/light.scss]
     css: scss/styles.css
     code-link: true
     link-external-icon: true
